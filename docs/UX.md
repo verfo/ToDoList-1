@@ -41,7 +41,7 @@
 ![6_2](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_2.jpg)
 ![6_3](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_3.jpg)
 #### После
-![6_1](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_1.jpg)
+![6_1](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_1.png)
 
 ## 4. Итог
 
