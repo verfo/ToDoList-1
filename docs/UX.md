@@ -32,16 +32,16 @@
 
 ### 3.1 Улучшенная главная страница
 #### До
-![6_4]()
+![6_4](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_4.jpg)
 #### После
-![6_5]()
+![6_5](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_5.jpg)
 
 ### 3.2 Защита от ошибок пользователя
 #### До
-![6_2]()
-![6_3]()
+![6_2](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_2.jpg)
+![6_3](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_3.jpg)
 #### После
-![6_1]()
+![6_1](https://github.com/verfo/ToDoList-1/blob/patch-1/docs/img/6_1.jpg)
 
 ## 4. Итог
 
